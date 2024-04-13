@@ -1,0 +1,3 @@
+    TiffHeaderBase::~TiffHeaderBase()
+    {
+    }

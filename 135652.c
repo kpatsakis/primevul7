@@ -1,0 +1,1 @@
+void ProtocolV1::accept() { this->state = START_ACCEPT; }

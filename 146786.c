@@ -1,0 +1,1 @@
+  StackGuard* stack_guard() { return &stack_guard_; }

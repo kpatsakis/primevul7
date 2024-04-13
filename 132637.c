@@ -1,0 +1,1 @@
+	operator bool() { return false; }

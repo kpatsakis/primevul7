@@ -1,0 +1,1 @@
+  ThreadManager* thread_manager() { return thread_manager_; }

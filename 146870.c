@@ -1,0 +1,1 @@
+  static ThreadId FromInteger(int id) { return ThreadId(id); }

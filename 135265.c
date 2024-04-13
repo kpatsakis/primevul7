@@ -1,0 +1,4 @@
+GfxShadingPattern::~GfxShadingPattern()
+{
+    delete shading;
+}

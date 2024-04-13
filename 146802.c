@@ -1,0 +1,1 @@
+  Context* context() { return thread_local_top_.context_; }

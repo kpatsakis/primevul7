@@ -1,0 +1,1 @@
+static inline long long php_date_llabs( long long i ) { return i >= 0 ? i : -i; }

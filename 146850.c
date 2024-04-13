@@ -1,0 +1,1 @@
+  void* GetData() { return embedder_data_; }

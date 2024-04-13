@@ -1,0 +1,1 @@
+    bool Image::isLittleEndianPlatform() { return !isBigEndianPlatform(); }

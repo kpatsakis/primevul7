@@ -1,0 +1,1 @@
+    CImgAbortException() { _message = new char[1]; *_message = 0; }

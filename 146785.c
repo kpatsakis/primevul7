@@ -1,0 +1,1 @@
+  explicit ThreadId(int id) : id_(id) {}

@@ -1,0 +1,4 @@
+    XmpTextValue::XmpTextValue()
+        : XmpValue(xmpText)
+    {
+    }

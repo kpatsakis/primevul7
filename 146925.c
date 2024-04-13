@@ -1,0 +1,1 @@
+  RuntimeState* runtime_state() { return &runtime_state_; }

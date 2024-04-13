@@ -1,0 +1,1 @@
+static inline void xfrm_sk_free_policy(struct sock *sk) {}

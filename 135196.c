@@ -1,0 +1,1 @@
+GfxCalRGBColorSpace::~GfxCalRGBColorSpace() { }

@@ -1,0 +1,3 @@
+		~DebugDir() {
+			removeDirTree(path);
+		}

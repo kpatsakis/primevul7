@@ -1,0 +1,1 @@
+    ThreadState* thread_state() const { return thread_state_; }

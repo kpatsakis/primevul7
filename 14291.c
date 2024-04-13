@@ -1,0 +1,1 @@
+Type WasmBinaryBuilder::getType() { return getType(getS32LEB()); }

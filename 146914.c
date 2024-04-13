@@ -1,0 +1,1 @@
+  bool IsInitialized() { return state_ == INITIALIZED; }

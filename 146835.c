@@ -1,0 +1,1 @@
+  CodeRange* code_range() { return code_range_; }

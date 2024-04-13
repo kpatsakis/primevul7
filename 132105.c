@@ -1,0 +1,1 @@
+void auth_spa_init(auth_instance *ablock) {}

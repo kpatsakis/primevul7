@@ -1,0 +1,1 @@
+    Simulator* simulator() const { return simulator_; }

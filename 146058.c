@@ -1,0 +1,4 @@
+    DateValue::DateValue()
+        : Value(date)
+    {
+    }

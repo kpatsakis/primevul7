@@ -1,0 +1,1 @@
+  DeoptimizerData* deoptimizer_data() { return deoptimizer_data_; }

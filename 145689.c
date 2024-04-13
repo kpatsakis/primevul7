@@ -1,0 +1,3 @@
+    TiffEntry::~TiffEntry()
+    {
+    }

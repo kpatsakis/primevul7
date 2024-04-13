@@ -1,0 +1,1 @@
+  void* formal_count_address() { return &thread_local_top_.formal_count_; }

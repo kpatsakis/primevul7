@@ -1,0 +1,1 @@
+        void setErase(bool onoff =true) { erase_ = onoff; }

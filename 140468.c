@@ -1,0 +1,1 @@
+static inline void crash_enable_local_vmclear(int cpu) { }

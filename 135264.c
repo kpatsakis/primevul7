@@ -1,0 +1,1 @@
+GfxCalGrayColorSpace::~GfxCalGrayColorSpace() { }

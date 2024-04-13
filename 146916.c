@@ -1,0 +1,1 @@
+  static ThreadId Current() { return ThreadId(GetCurrentThreadId()); }

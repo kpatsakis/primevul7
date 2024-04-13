@@ -1,0 +1,1 @@
+LIR_Opr LIRGenerator::getThreadTemp()   { return LIR_OprFact::illegalOpr; }

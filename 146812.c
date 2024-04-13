@@ -1,0 +1,1 @@
+  HistogramInfo* heap_histograms() { return heap_histograms_; }

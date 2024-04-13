@@ -1,0 +1,1 @@
+    explicit StreamBitReader(Stream *strA) : str(strA), inputBits(0), isAtEof(false) { }

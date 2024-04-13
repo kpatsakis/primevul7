@@ -1,0 +1,1 @@
+        virtual bool readDimensions() { return true; }

@@ -1,0 +1,1 @@
+    void XmpParser::registeredNamespaces(Exiv2::Dictionary&){}

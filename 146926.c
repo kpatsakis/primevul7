@@ -1,0 +1,1 @@
+  HashMap* simulator_i_cache() { return simulator_i_cache_; }

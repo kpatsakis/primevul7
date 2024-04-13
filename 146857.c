@@ -1,0 +1,1 @@
+  GlobalHandles* global_handles() { return global_handles_; }

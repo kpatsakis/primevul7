@@ -1,0 +1,1 @@
+  static Address handler(ThreadLocalTop* thread) { return thread->handler_; }

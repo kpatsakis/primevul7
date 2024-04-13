@@ -1,0 +1,1 @@
+  ContextSwitcher* context_switcher() { return context_switcher_; }

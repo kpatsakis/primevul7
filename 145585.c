@@ -1,0 +1,3 @@
+    Exifdatum::~Exifdatum()
+    {
+    }

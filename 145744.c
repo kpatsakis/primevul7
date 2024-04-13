@@ -1,0 +1,4 @@
+    StringValue::StringValue()
+        : StringValueBase(string)
+    {
+    }

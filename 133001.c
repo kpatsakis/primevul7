@@ -1,0 +1,1 @@
+void tls_cert_dummy(void) {}

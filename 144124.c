@@ -1,0 +1,1 @@
+        return val<(double)min()?min():val>(double)max()?max():(cimg_uint64)val; }

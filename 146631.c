@@ -1,0 +1,3 @@
+    Iptcdatum::~Iptcdatum()
+    {
+    }

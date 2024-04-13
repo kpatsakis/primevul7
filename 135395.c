@@ -1,0 +1,4 @@
+    T*    createInputPartT(int partNumber)
+    {
+
+    }

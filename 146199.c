@@ -1,0 +1,3 @@
+    TimeValue::~TimeValue()
+    {
+    }

@@ -1,0 +1,1 @@
+  RegExpStack* regexp_stack() { return regexp_stack_; }

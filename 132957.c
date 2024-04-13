@@ -1,0 +1,1 @@
+    bool atEOF() const { return isAtEof; }

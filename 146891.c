@@ -1,0 +1,1 @@
+  ThreadId() : id_(kInvalidId) {}

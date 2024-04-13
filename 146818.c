@@ -1,0 +1,1 @@
+    uintptr_t stack_limit() const { return stack_limit_; }

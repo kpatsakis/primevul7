@@ -1,0 +1,1 @@
+        bool overwrite() const { return overwrite_; }

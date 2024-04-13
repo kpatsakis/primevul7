@@ -1,0 +1,1 @@
+  static ThreadId Invalid() { return ThreadId(kInvalidId); }

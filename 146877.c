@@ -1,0 +1,1 @@
+  void set_thread_id(ThreadId id) { thread_local_top_.thread_id_ = id; }

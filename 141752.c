@@ -1,0 +1,1 @@
+static inline int xfrm_sk_clone_policy(struct sock *sk, const struct sock *osk) { return 0; }

@@ -1,0 +1,4 @@
+    AsciiValue::AsciiValue()
+        : StringValueBase(asciiString)
+    {
+    }

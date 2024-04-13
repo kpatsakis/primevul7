@@ -1,0 +1,1 @@
+LIR_Opr LIRGenerator::exceptionPcOpr()  { return FrameMap::rdx_opr; }

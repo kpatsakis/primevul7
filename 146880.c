@@ -1,0 +1,1 @@
+  int ToInteger() const { return id_; }

@@ -1,0 +1,3 @@
+     **/
+    ~CImgList() {
+      delete[] _data;

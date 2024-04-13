@@ -1,0 +1,4 @@
+GfxPatchMeshShading::~GfxPatchMeshShading()
+{
+    gfree(patches);
+}

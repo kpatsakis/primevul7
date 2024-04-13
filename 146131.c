@@ -1,0 +1,3 @@
+    TiffReader::~TiffReader()
+    {
+    }

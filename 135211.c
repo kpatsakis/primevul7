@@ -1,0 +1,1 @@
+GfxPattern::GfxPattern(int typeA, int patternRefNumA) : type(typeA), patternRefNum(patternRefNumA) { }

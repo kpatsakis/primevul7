@@ -1,0 +1,1 @@
+int LibRaw::is_nikon_sraw(){ return load_raw == &LibRaw::nikon_load_sraw;}

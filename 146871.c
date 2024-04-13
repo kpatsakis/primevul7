@@ -1,0 +1,1 @@
+  bool simulator_initialized() { return simulator_initialized_; }

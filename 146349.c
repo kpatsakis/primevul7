@@ -1,0 +1,3 @@
+    TiffVisitor::~TiffVisitor()
+    {
+    }

@@ -1,0 +1,1 @@
+GfxRadialShading::~GfxRadialShading() { }

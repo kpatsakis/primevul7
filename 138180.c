@@ -1,0 +1,1 @@
+static __inline __int64_t php_date_llabs( __int64_t i ) { return i >= 0 ? i : -i; }

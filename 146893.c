@@ -1,0 +1,1 @@
+  SaveContext* prev() { return prev_; }

@@ -1,0 +1,3 @@
+    StringValueBase::~StringValueBase()
+    {
+    }

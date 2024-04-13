@@ -1,0 +1,1 @@
+  Mutex* debugger_access() { return debugger_access_; }

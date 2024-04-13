@@ -1,0 +1,3 @@
+CompressTest::~CompressTest()
+{
+}

@@ -1,0 +1,1 @@
+static void cleanup_huffman_tree(x3f_hufftree_t *HTP) { free(HTP->nodes); }

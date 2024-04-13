@@ -1,0 +1,1 @@
+  StubCache* stub_cache() { return stub_cache_; }

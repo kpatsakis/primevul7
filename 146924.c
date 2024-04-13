@@ -1,0 +1,1 @@
+  StringInputBuffer* write_input_buffer() { return write_input_buffer_; }

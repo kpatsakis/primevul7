@@ -1,0 +1,4 @@
+    TimeValue::TimeValue()
+        : Value(time)
+    {
+    }

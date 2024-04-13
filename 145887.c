@@ -1,0 +1,1 @@
+    long ExifData::count() const { return static_cast<long>(exifMetadata_.size()); }

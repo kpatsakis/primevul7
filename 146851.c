@@ -1,0 +1,1 @@
+  static void Lock(Isolate* isolate) { isolate->break_access_->Lock(); }

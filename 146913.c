@@ -1,0 +1,1 @@
+    void set_thread_state(ThreadState* value) { thread_state_ = value; }

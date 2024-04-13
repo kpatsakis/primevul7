@@ -1,0 +1,3 @@
+    PanasonicMnHeader::~PanasonicMnHeader()
+    {
+    }

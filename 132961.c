@@ -1,0 +1,1 @@
+    void resetInputBits() { inputBits = 0; }

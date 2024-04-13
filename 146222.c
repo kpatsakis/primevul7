@@ -1,0 +1,3 @@
+    TiffDecoder::~TiffDecoder()
+    {
+    }

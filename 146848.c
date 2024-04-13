@@ -1,0 +1,1 @@
+  bool IsInUse() { return entry_stack_ != NULL; }

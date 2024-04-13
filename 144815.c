@@ -1,0 +1,2 @@
+      return remove(pos,pos);
+    }

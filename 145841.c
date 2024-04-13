@@ -1,0 +1,3 @@
+    FujiMnHeader::~FujiMnHeader()
+    {
+    }

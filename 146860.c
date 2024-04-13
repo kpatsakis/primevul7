@@ -1,0 +1,1 @@
+  explicit StackLimitCheck(Isolate* isolate) : isolate_(isolate) { }

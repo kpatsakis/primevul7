@@ -1,0 +1,1 @@
+        bool erase() const { return erase_; }

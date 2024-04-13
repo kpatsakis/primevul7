@@ -1,0 +1,1 @@
+    void Image::writeXmpFromPacket(bool) {}

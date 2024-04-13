@@ -1,0 +1,1 @@
+static inline int restore_vsx(struct task_struct *tsk) { return 0; }

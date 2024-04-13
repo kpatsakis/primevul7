@@ -1,0 +1,1 @@
+  ThreadId thread_id() { return thread_local_top_.thread_id_; }

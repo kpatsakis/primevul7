@@ -1,0 +1,1 @@
+  RuntimeProfiler* runtime_profiler() { return runtime_profiler_; }

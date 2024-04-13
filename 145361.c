@@ -1,0 +1,3 @@
+    TiffSizeEntry::~TiffSizeEntry()
+    {
+    }

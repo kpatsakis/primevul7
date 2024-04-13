@@ -1,0 +1,1 @@
+        bool operator==(int compression) const { return compression_ == compression; }

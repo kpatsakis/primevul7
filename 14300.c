@@ -1,0 +1,1 @@
+void WasmBinaryWriter::finishSubsection(int32_t start) { finishSection(start); }

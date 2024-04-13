@@ -1,0 +1,1 @@
+GfxDeviceGrayColorSpace::~GfxDeviceGrayColorSpace() { }

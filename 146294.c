@@ -1,0 +1,4 @@
+    LangAltValue::LangAltValue()
+        : XmpValue(langAlt)
+    {
+    }

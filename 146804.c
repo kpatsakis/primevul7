@@ -1,0 +1,1 @@
+  Mutex* break_access() { return break_access_; }

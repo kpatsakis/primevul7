@@ -1,0 +1,1 @@
+LIR_Opr LIRGenerator::exceptionOopOpr() { return FrameMap::rax_oop_opr; }

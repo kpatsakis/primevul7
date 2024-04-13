@@ -1,0 +1,4 @@
+GfxUnivariateShading::~GfxUnivariateShading()
+{
+    gfree(cacheBounds);
+}

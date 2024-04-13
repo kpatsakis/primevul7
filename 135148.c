@@ -1,0 +1,1 @@
+GfxAxialShading::~GfxAxialShading() { }

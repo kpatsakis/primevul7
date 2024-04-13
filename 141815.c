@@ -1,0 +1,1 @@
+static inline int xfrm6_route_forward(struct sk_buff *skb) { return 1; }

@@ -1,0 +1,1 @@
+  void SetData(void* data) { embedder_data_ = data; }

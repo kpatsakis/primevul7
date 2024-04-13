@@ -1,0 +1,1 @@
+LIR_Opr LIRGenerator::shiftCountOpr()   { return FrameMap::rcx_opr; }

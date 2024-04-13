@@ -1,0 +1,1 @@
+    bool Image::iccProfileDefined() const { return iccProfile_.size_?true:false;}

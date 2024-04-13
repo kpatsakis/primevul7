@@ -1,0 +1,1 @@
+GfxFunctionShading::~GfxFunctionShading() { }

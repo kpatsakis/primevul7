@@ -1,0 +1,1 @@
+  void FreeThreadResources() { thread_local_top_.Free(); }

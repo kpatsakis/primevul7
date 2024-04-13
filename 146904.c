@@ -1,0 +1,1 @@
+  bool fp_stubs_generated() { return fp_stubs_generated_; }

@@ -1,0 +1,1 @@
+  Factory* factory() { return reinterpret_cast<Factory*>(this); }

@@ -1,0 +1,1 @@
+LIR_Opr LIRGenerator::remOutOpr()       { return FrameMap::rdx_opr; }

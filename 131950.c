@@ -1,0 +1,1 @@
+LIR_Opr LIRGenerator::syncTempOpr()     { return FrameMap::rax_opr; }

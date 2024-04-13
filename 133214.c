@@ -1,0 +1,1 @@
+static int x3f_sget2(uchar *s) { return s[0] | s[1] << 8; }

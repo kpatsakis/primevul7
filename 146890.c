@@ -1,0 +1,1 @@
+  int* code_kind_statistics() { return code_kind_statistics_; }

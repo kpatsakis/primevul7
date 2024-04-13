@@ -1,0 +1,1 @@
+  bool IsDefaultIsolate() const { return this == default_isolate_; }

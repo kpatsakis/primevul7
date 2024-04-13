@@ -1,0 +1,1 @@
+GfxDeviceCMYKColorSpace::GfxDeviceCMYKColorSpace() { }

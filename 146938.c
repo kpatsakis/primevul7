@@ -1,0 +1,1 @@
+    Isolate* isolate() const { return isolate_; }

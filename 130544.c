@@ -1,0 +1,3 @@
+PingStats::~PingStats() {
+	delete asQuantile;
+}

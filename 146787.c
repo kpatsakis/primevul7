@@ -1,0 +1,1 @@
+  inline Address* handler_address() { return &thread_local_top_.handler_; }

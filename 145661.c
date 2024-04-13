@@ -1,0 +1,1 @@
+        virtual bool valid() const { return valid_; }

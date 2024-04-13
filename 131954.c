@@ -1,0 +1,1 @@
+LIR_Opr LIRGenerator::syncLockOpr()     { return new_register(T_INT); }

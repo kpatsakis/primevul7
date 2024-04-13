@@ -1,0 +1,3 @@
+    TiffCopier::~TiffCopier()
+    {
+    }

@@ -1,0 +1,4 @@
+GfxColorTransform::~GfxColorTransform()
+{
+    cmsDeleteTransform(transform);
+}

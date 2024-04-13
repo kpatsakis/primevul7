@@ -1,0 +1,1 @@
+  StringTracker* string_tracker() { return string_tracker_; }

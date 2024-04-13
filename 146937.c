@@ -1,0 +1,1 @@
+  CompilationCache* compilation_cache() { return compilation_cache_; }

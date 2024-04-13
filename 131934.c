@@ -1,0 +1,1 @@
+LIR_Opr LIRGenerator::divInOpr()        { return FrameMap::rax_opr; }
